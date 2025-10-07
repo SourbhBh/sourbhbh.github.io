@@ -9,7 +9,7 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
-
+  text-align: left;
   @include clearfix();
   margin-bottom: 1em;
 
@@ -83,9 +83,11 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
+  //horizontal-align: left;
   width: 36px;
+  //height: 100px;
   // set width only, for non-square avatars
-  // height: 36px;
+  //height: 168px;
 
   @include breakpoint($large) {
     display: block;
@@ -94,8 +96,9 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    width: 220px;
+    height: 180px;
+    border-radius: 0%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -110,6 +113,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  text-align: left;
 
   @include breakpoint($large) {
     display: block;
@@ -198,6 +202,7 @@
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
+  text-align: left;
 
   @include breakpoint($large) {
     display: block;
