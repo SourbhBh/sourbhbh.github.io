@@ -15,6 +15,12 @@ I am broadly interested in fundamental problems in causal inference, statistics 
 
 News
 ======
+- \[May '26\] Had a wonderful time at [AISTATS 2026](https://aistats.org/aistats2026/) 
+- \[Apr '26\] Presented a poster about recent work on reasoning about fairness under selection bias at [EuroCIM 2026](https://eurocim.org/oxford-2026/). Preprint out soon.
+- \[Mar '26\] Had a wonderful time at [INI's Causal identification and discovery workshop](https://www.newton.ac.uk/event/cifw02/). 
+- \[Feb '26\] [New preprint out](https://arxiv.org/pdf/2602.23020)! We propose using ternary tests in causal inference setting where identification is not guaranteed and when one must say "I don't know"! 
+- \[Nov '25\] Visited Google Deepmind, Bengaluru to give a talk about causal fairness 
+- \[Nov '25\] Gave an online talk about causal fairness to the machine learning reading group at Saarland University. 
 - \[Jul '25\] I had a great time at UAI 2025. Congratulations to all attendees and organizers for making it a success.
 - \[May '25\] I talked about my recent work on causal fairness at the [Amsterdam Causality Meeting](https://amscausality.github.io/upcoming/) 
 - \[May '25\] Our paper on [a causal fairness analysis of the Berkeley data](https://arxiv.org/abs/2502.10161) was accepted to UAI 2025. Come find me at UAI for a chat about it!
