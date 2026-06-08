@@ -15,7 +15,8 @@ I am broadly interested in fundamental problems in causal inference, statistics 
 
 News
 ======
-- \[May '26\] Had a wonderful time at [AISTATS 2026](https://aistats.org/aistats2026/) 
+- \[Jun '26\] [Ternary testing paper](https://arxiv.org/pdf/2602.23020) accepted at UAI 2026. Find me in Amsterdam \(either during UAI or otherwise\) to chat about it! 
+- \[May '26\] Had a wonderful time at [AISTATS 2026](https://aistats.org/aistats2026/). 
 - \[Apr '26\] Presented a poster about recent work on reasoning about fairness under selection bias at [EuroCIM 2026](https://eurocim.org/oxford-2026/). Preprint out soon.
 - \[Mar '26\] Had a wonderful time at [INI's Causal identification and discovery workshop](https://www.newton.ac.uk/event/cifw02/). 
 - \[Feb '26\] [New preprint out](https://arxiv.org/pdf/2602.23020)! We propose using ternary tests in causal inference setting where identification is not guaranteed and when one must say "I don't know"! 
