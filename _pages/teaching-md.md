@@ -8,7 +8,7 @@ redirect_from:
 ---
 Instructor
 -----
-- Statistics for Sciences (Spring 2024, 2025, Amsterdam Unviersity College) 
+- Statistics for Sciences (Spring 2024, 2025, Amsterdam University College) 
 - Calculus (Fall 2024, Amsterdam University College) 
 - Mathematics for Chemical Sciences (Fall 2023, University of Amsterdam) 
 
