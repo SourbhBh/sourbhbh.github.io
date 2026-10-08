@@ -5,5 +5,5 @@ category: manuscripts
 permalink: /publication/selection
 date: 2026-10-08
 venue: "In Submission"
-citation: S. Bhadane, J.M. Mooij, O. Zoeter, Reasoning about Fairness Under Selection Bias. 
+citation: S. Bhadane, J.M. Mooij, O. Zoeter, In Submission. 
 ---
