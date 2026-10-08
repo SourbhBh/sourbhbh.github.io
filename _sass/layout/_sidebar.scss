@@ -84,7 +84,7 @@
   display: table-cell;
   vertical-align: top;
   //horizontal-align: left;
-  width: 36px;
+  width: 100px; // avatar size on mobile; the $large breakpoint resets it for desktop
   //height: 100px;
   // set width only, for non-square avatars
   //height: 168px;
@@ -97,7 +97,7 @@
 
   img {
     width: 220px;
-    height: 180px;
+    height: auto; // keep the photo's aspect ratio when max-width shrinks it on mobile
     border-radius: 0%;
 
     @include breakpoint($large) {
