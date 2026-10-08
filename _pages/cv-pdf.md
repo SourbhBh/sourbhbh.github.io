@@ -7,5 +7,6 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
 
-You can download a pdf copy of my CV [here](files/resume_sourbh.pdf).
+You can download a pdf copy of my CV [here]({{ base_path }}/files/resume_sourbh.pdf).
